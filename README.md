@@ -79,19 +79,19 @@ qa_quru_saucedemo/
 
 Jenkins remote execution:
 
-![img.png](resources/img.png)
+![img.png](readme_files/img.png)
 
 Allure report overview page:
 
-![img.png](resources/img2.png)
+![img.png](readme_files/img2.png)
 
 Test details page with browser logs, screenshot and video:
 
-![img.png](resources/img3.png)
+![img.png](readme_files/img3.png)
 
 Telegram notification from bot:
 
-![img.png](resources/img4.png)
+![img.png](readme_files/img4.png)
 
 ### CI/CD
 The project is integrated with Jenkins for automated test execution. Test results are sent to Telegram via Allure Notifications.
