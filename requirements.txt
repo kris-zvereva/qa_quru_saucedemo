@@ -6,3 +6,4 @@ allure-python-commons~=2.15.0
 selenium~=4.38.0
 utils~=1.0.2
 python-dotenv~=1.2.1
+pytest-check~=2.4.1
