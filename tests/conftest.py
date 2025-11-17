@@ -43,6 +43,9 @@ def set_browser(request):
         options=options)
 
     browser.config.driver = driver
+    browser.config.window_width = 1920
+    browser.config.window_height = 1080
+
     yield browser
 
     attach.add_screenshot(browser)
@@ -62,7 +65,6 @@ def products_page(set_browser):
 @pytest.fixture
 def shopping_cart_page(set_browser):
     return ShoppingCartPage()
-
 
 @pytest.fixture
 def logged_in_user(login_page):
