@@ -8,7 +8,7 @@
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
   <img height="30" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4">
   <img height="30" src="https://avatars.githubusercontent.com/u/107424?s=200&v=4">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
+ 
 </p>
 
 ### Project Description
